@@ -1,10 +1,11 @@
 import requests
 import api
 import exceptions
-from __init__ import init
+import __init__
 
 class Client():
-	print(init())
+	print(__init__.init())
+
 
 	def getChatMessages(self, amount: int = 99*99*99*99):
 
