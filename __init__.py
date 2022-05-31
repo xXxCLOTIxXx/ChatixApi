@@ -1,3 +1,7 @@
+from .client import Client
+
+
+
 __title__ = 'AniWorlChatApi'
 __author__ = 'Xsarz'
 __license__ = 'MIT'
