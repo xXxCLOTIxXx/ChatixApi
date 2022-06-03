@@ -1,7 +1,7 @@
 from client import Client
 import time
 name='Bot Name'
-adminId = '35aecb81-8815-47c4-9b65-a0e37550ae24'
+adminId = 'Admin code'
 client = Client(name=name)
 
 
