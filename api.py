@@ -1,5 +1,5 @@
 
-api = ''
+api = 'https://chatixapi.herokuapp.com/'
 sendMessageApi = 'postMessage'
 getMessageApi = 'getMessage'
 updateBackgroundApi = 'updateBackground'
